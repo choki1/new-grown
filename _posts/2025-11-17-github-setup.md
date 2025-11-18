@@ -1,6 +1,7 @@
 ---
 title: "个人github搭建"
 layout: default
+date: 2025-11-17
 ---
 
 ## github搭建的具体流程

@@ -1,6 +1,7 @@
 ---
 title: "GitHub Pages 部署与 Git 基础复习"
 layout: default
+date: 2025-11-18
 ---
 
 ## 文章目标

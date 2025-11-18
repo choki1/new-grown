@@ -1,6 +1,7 @@
 ---
 title: "学习markdown语言"
 layout: default
+date: 2025-11-17
 ---
 
 # 标题1
