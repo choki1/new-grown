@@ -23,7 +23,7 @@ email: jxsong195@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   用于记录个人成长以及学习笔记的博客
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://choki1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cannottellyou
 github_username:  choki1
 
